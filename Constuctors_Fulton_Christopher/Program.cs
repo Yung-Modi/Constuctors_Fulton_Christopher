@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Constructors_Fulton
+namespace Constructors_Fulton_Christopher
 {
     class Program
     {
